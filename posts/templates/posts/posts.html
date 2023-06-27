@@ -1,7 +1,8 @@
 <h1>Blog</h1>
+<a href="/blog/new">Add New Post</a>
 
-
+<hr>
 {% for post in posts %}
-    <h3> {{post}} </h3>
+    <h3><a href="/blog/{{post.id}}">{{post}}</a></h3>
 
 {% endfor%}
