@@ -1,0 +1,8 @@
+<h1>Blog</h1>
+<a href="/blog/new">Add New Post</a>
+
+<hr>
+{% for post in object_list %}
+    <h3><a href="/blog/{{post.id}}">{{post}}</a></h3>
+
+{% endfor%}
