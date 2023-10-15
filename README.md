@@ -1,7 +1,5 @@
 # Django Blog
-It is a sample project for a simple banking application written in Python.
-It shows how to implement basic banking functions such as creating accounts, depositing and withdrawing money, checking account balances, and transferring money between accounts.
-The project is suitable for beginners who want to learn how to write Python programs and understand basic concepts of programming and banking applications.
+"Django-Basics" is a Python-based project that provides a comprehensive introduction to the Django web framework. It covers basic concepts of Django such as creating a project, creating models, creating views, and processing forms. This project is aimed at beginners who want to learn how to build web applications with Django and gain a basic understanding of web development concepts. It includes step-by-step instructions and code examples to help users get started with Django and build their own web applications.
 
 
 
