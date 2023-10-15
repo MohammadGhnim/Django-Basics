@@ -1,2 +1,5 @@
 # Django Blog
-"Django-Basics" ist ein auf Python basierendes Projekt, das eine umfassende Einführung in das Django-Webframework bietet. Es behandelt grundlegende Konzepte von Django wie das Erstellen eines Projekts, das Erstellen von Modellen, das Erstellen von Ansichten und das Verarbeiten von Formularen. Dieses Projekt richtet sich an Anfänger, die lernen möchten, wie man Webanwendungen mit Django erstellt und ein grundlegendes Verständnis von Webentwicklungskonzepten erlangen möchten. Es enthält Schritt-für-Schritt-Anleitungen und Codebeispiele, um Benutzern den Einstieg in Django zu erleichtern und ihre eigenen Webanwendungen zu erstellen.
+"Django-Basics" is a Python-based project that provides a comprehensive introduction to the Django web framework. It covers basic concepts of Django such as creating a project, creating models, creating views, and processing forms. This project is aimed at beginners who want to learn how to build web applications with Django and gain a basic understanding of web development concepts. It includes step-by-step instructions and code examples to help users get started with Django and build their own web applications.
+
+
+
